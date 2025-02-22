@@ -1,5 +1,1 @@
 # FLARE Testing
-
-```python
-
-```
