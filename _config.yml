@@ -1,1 +1,5 @@
-theme: minima
+# theme: minima
+theme: jekyll-theme-cayman
+# theme: jekyll-theme-midnight
+# theme: jekyll-theme-slate
+# theme: jekyll-theme-hacker
